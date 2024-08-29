@@ -12,5 +12,3 @@ The images folder contains pictures of the front and back of the smart mirror. T
 
 # My Thoughts on this Project
 I have documented all my thoughts about what I have learned, what I struggled with, and my general ideas about the project on my LinkedIn profile here www.linkedin.com/in/riley-s-burns. I actively post and check LinkedIn so feel free to message me there about any questions you might have for me!
-
-# Photo
